@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://hopeful-khorana-84c315.netlify.app">
       Demo
     </a>
     <span> | </span>
@@ -39,7 +39,7 @@
 
 ![screenshot](https://images2.imgbox.com/63/be/tyixm7En_o.png)
 
-You can see this demon on this link: LINK, in this challenge was very special, because it was really chalnging to make custom checkbox witch I think its the hardest, and the second thing is the custom Style for the ordered list, it looks simple but it teache you some CSS trikes
+You can see this demon on this link: https://hopeful-khorana-84c315.netlify.app, in this challenge was very special, because it was really chalnging to make custom checkbox witch I think its the hardest, and the second thing is the custom Style for the ordered list, it looks simple but it teache you some CSS trikes
 
 ### Built With
 
@@ -81,5 +81,5 @@ $ npm start
 
 ## Contact
 
-- Email (https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
+- Email hassandevwork@gmail.com
+- GitHub [HassanDevWork](https://github.com/HassanDevWork)
