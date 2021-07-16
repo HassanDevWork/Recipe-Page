@@ -1,0 +1,19 @@
+{
+  "name": "recipe-page",
+  "version": "1.0.0",
+  "description": "<!-- Please update value in the {}  -->",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HassanDevWork/Recipe-Page.git"
+  },
+  "author": "Hassan Ba Zuhair",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HassanDevWork/Recipe-Page/issues"
+  },
+  "homepage": "https://github.com/HassanDevWork/Recipe-Page#readme"
+}
